@@ -9,6 +9,7 @@ https://www.google.com/search?q=library+cataloging+grants&oq=grants+library+cata
 
 008
 041
+* http://www.loc.gov/marc/bibliographic/bd041.html
 * [Language](http://www.oclc.org/support/help/SearchingWorldCatIndexes/#04_Indexes/Language.htm%3FTocPath%3DIndexes%7C_____41)
 * [Sound recordings](http://www.oclc.org/support/help/SearchingWorldCatIndexes/#07_Material_Type_Names_Codes/Sound_recordings.htm%3FTocPath%3DMaterial%2520type%2520names%2520and%2520codes%7C_____5)
 * [AV Mateirals](http://www.oclc.org/support/help/SearchingWorldCatIndexes/#07_Material_Type_Names_Codes/Visual_Materials.htm%3FTocPath%3DMaterial%2520type%2520names%2520and%2520codes%7C_____7)
